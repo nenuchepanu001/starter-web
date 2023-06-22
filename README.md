@@ -14,6 +14,8 @@ this is simple to show different parts of git repository an various commands usi
 Sample website with plenty of files for demos
 
 
+As stated above , the main purpose is to provide simple examples for git traingin
 ## How to Contribute
 
 ## Deployement
+this is a simple webproject
