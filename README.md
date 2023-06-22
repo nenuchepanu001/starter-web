@@ -5,7 +5,8 @@
 ## Introduction
 
 
-This repository is for showing how Git and GitHub work
+This is simple website project for showing how to use Git and Github
+together
 
 ## Purpose
 
